@@ -1,0 +1,21 @@
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:10:27: object marshallers is not a member of package akka.http.scaladsl
+[error] import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
+[error]                           ^
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:11:8: not found: object spray
+[error] import spray.json.DefaultJsonProtocol._
+[error]        ^
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:24:29: not found: value jsonFormat2
+[error]   implicit val itemFormat = jsonFormat2(Item)
+[error]                             ^
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:25:30: not found: value jsonFormat1
+[error]   implicit val orderFormat = jsonFormat1(Order)
+[error]                              ^
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:46:41: type mismatch;
+[error]  found   : com.fractal.learn.WebServer.Item
+[error]  required: akka.http.scaladsl.marshalling.ToResponseMarshallable
+[error]             case Some(item) => complete(item)
+[error]                                         ^
+[error] /Users/jeffzhao/Work/learn/akkahttp/src/main/scala/com/fractal/learn/WebServer.scala:53:22: could not find implicit value for parameter um: akka.http.scaladsl.unmarshalling.FromRequestUnmarshaller[com.fractal.learn.WebServer.Order]
+[error]             entity(as[Order]) { order =>
+[error]                      ^
+[error] 6 errors found

@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: com.akkademy-db#akkademy-db_2.11;0.0.1-SNAPSHOT :: 0.0.1-SNAPSHOT :: integration :: Mon Jan 15 12:03:30 EST 2018[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Mon Jan 15 12:03:30 EST 2018 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/ivy-0.0.1-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (29ms)[0m

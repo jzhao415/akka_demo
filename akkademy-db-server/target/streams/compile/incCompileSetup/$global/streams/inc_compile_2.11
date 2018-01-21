@@ -1,0 +1,263 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor$$anonfun$receive$1.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/AkkademyDb$$anonfun$receive$1.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/AkkademyDb.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main$delayedInit$body.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/GetRequest$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/GetRequest.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/KeyNotFoundException$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/KeyNotFoundException.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/ReverseString$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/ReverseString.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/SetRequest$.class
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/SetRequest.class
+binary dependencies:
+8 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Users/jeffzhao/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> /Users/jeffzhao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> /Users/jeffzhao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> /Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> com.Pingpong.ScalaPongActor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> com.Pingpong.ScalaPongActor$
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> com.Pingpong.ScalaPongActor$$anonfun$receive$1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com.akkademy.AkkademyDb
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com.akkademy.AkkademyDb$$anonfun$receive$1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com.akkademy.Main
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com.akkademy.Main$
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com.akkademy.Main$delayedInit$body
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.GetRequest
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.GetRequest$
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.KeyNotFoundException
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.KeyNotFoundException$
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.ReverseString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.ReverseString$
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.SetRequest
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com.akkademy.SetRequest$
+used names:
+121 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> !
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> <init>
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> ==
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> A1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Actor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> AnyRef
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> B1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Exception
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Function1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Pingpong
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Predef
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Props
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Receive
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> ScalaPongActor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> Status
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> String
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> actor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> actorRef2Scala
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> akka
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> apply
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> asInstanceOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> com
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> package
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> response
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> scala
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> self
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> sender
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> unchecked
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> !
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> <init>
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> ==
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> A1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Actor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> ActorSystem
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> AkkademyDb
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> App
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> B1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> ClassNotFoundException
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> ClassTag
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Function1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> HashMap
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> KeyNotFoundException
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> LogSource
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Logging
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Main
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> None
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Object
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Option
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Predef
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Props
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> Status
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> String
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> actor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> actorOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> actorRef2Scala
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> akka
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> akkademy
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> apply
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> asInstanceOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> augmentString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> collection
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> com
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> context
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> event
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> fromActor
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> get
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> info
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> isInstanceOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> java
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> key
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> lang
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> log
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> map
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> materializeClassTag
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> mutable
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> package
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> put
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> response
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> reverse
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> scala
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> self
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> sender
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> system
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> toString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> unchecked
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> value
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> x
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> &&
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> <init>
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> ==
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> AbstractFunction1
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> AbstractFunction2
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> Exception
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> GetRequest
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> KeyNotFoundException
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> None
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> Object
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> Predef
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> Product
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> ReverseString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> ScalaRunTime
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> Serializable
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> SetRequest
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> String
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> _hashCode
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> _toString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> akkademy
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> asInstanceOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> com
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> eq
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> isInstanceOf
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> java
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> key
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> lang
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> package
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> runtime
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> scala
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> toString
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> typedProductIterator
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> value
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> ||
+product stamps:
+16 items
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor$$anonfun$receive$1.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/Pingpong/ScalaPongActor.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/AkkademyDb$$anonfun$receive$1.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/AkkademyDb.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/GetRequest$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/GetRequest.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/KeyNotFoundException$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/KeyNotFoundException.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main$delayedInit$body.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/Main.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/ReverseString$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/ReverseString.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/SetRequest$.class -> lastModified(1516042947000)
+/Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/classes/com/akkademy/SetRequest.class -> lastModified(1516042947000)
+source stamps:
+3 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> hash(364b86c7b0c97de60a0dc5816e924d4378e4d636)
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> hash(597a3f79ac77015a8d300fa1a67b5e66366a5896)
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> hash(f280eaa84db409344d658cab194bd07fe2ebb8f9)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/jeffzhao/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> lastModified(1431096334000)
+/Users/jeffzhao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Exception
+/Users/jeffzhao/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.Actor
+/Users/jeffzhao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+3 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHClZY3HAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hww138sHQABHNlbGZzcQB+AAvu1A8MdAAHY29udGV4dHVxAH4ACQAAACRzcQB+AAtoeRTQdAAGbm90aWZ5c3EAfgALWPOv9nQAB1JlY2VpdmVzcQB+AAuWGgnGdAAEd2FpdHNxAH4AC8HMVgd0AA0kYXNJbnN0YW5jZU9mc3EAfgALbHOSonQABmVxdWFsc3NxAH4AC+DEIUp0AAxhc0luc3RhbmNlT2ZzcQB+AAs2ENMJdAAMc3luY2hyb25pemVkc3EAfgALPqcQf3QADSRpc0luc3RhbmNlT2ZzcQB+AAtU0HNSdAAHcmVjZWl2ZXNxAH4AC2wodxd0AApwcmVSZXN0YXJ0c3EAfgALEts8U3QADWFyb3VuZFJlY2VpdmVzcQB+AAskaw5JdAALcG9zdFJlc3RhcnRzcQB+AAunStz1dAAIcG9zdFN0b3BzcQB+AAv1rI1vdAAJbm90aWZ5QWxsc3EAfgAL56LNAHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALwfSTJ3QADGlzSW5zdGFuY2VPZnNxAH4ACw/0Csx0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL3uWxtXQADmFyb3VuZFBvc3RTdG9wc3EAfgAL99/9VnQABjxpbml0PnNxAH4AC04LJOp0AAhwcmVTdGFydHNxAH4ACx9+y4p0AAl1bmhhbmRsZWRzcQB+AAsAP8UMdAACPT1zcQB+AAum+ndrdAAFY2xvbmVzcQB+AAuP5sjMdAAGc2VuZGVyc3EAfgALlQ7X5XQACHRvU3RyaW5nc3EAfgALGZ/K63QAAiE9c3EAfgAL4Zy86nQACGdldENsYXNzc3EAfgALMBLSL3QABXByb3Bzc3EAfgALIw+n8nQAAm5lc3EAfgALS5hr5HQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC+G2E2R0AAJlcXNxAH4AC6Ho+fx0AAIjI3NxAH4ACxi73xV0AAhmaW5hbGl6ZXNxAH4AC41Dd/d0AAhoYXNoQ29kZXNxAH4AC+IYikl0AA5hcm91bmRQcmVTdGFydHNxAH4ACxMz9Wl0AA5TY2FsYVBvbmdBY3RvcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABtjb20uUGluZ3BvbmcuU2NhbGFQb25nQWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AewFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCCc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCadAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Am3NxAH4AjnQABk9iamVjdHNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJp0AARqYXZhc3EAfgCadAAEbGFuZ3EAfgChc3EAfgCOdAADQW55c3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnQABXNjYWxhcQB+AKFwcHNxAH4AYHEAfgBtdXEAfgBuAAAAAHNxAH4AcAB0ABtjb20uUGluZ3BvbmcuU2NhbGFQb25nQWN0b3J1cQB+AHMAAAAAfnEAfgB1dAAGTW9kdWxldXEAfgB5AAAAAHNxAH4AewFxAH4Ag3BzcQB+AHsBc3EAfgCFc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AjAAAAAJzcQB+AI5xAH4Ao3NxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJpxAH4AqHNxAH4AmnEAfgCqcQB+AKFzcQB+AI5xAH4ArHNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJpxAH4AsXEAfgChcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAxjb20uUGluZ3BvbmdzcQB+ANB0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWD7M342dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQC9Vc2Vycy9qZWZmemhhby9Xb3JrL2xlYXJuL2Fra2FkZW15LWRiL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ2S4bHsMl95goNxYFukk1DeOTWNg==
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDc1brkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6x1fxnQABHNlbGZzcQB+AAsTZUI9dAAHY29udGV4dHVxAH4ACQAAACtzcQB+AAtFApredAAGbm90aWZ5c3EAfgAL2QyIWnQAB1JlY2VpdmVzcQB+AAs4ikd0dAAEd2FpdHNxAH4ACwpXzpV0AA0kYXNJbnN0YW5jZU9mc3EAfgAL8OlMeXQABnN5c3RlbXNxAH4AC/k1rKF0AANtYXBzcQB+AAusitkcdAAGZXF1YWxzc3EAfgALSqvvNnQADGFzSW5zdGFuY2VPZnNxAH4AC/xMFGx0AA5leGVjdXRpb25TdGFydHNxAH4AC595coV0AAxzeW5jaHJvbml6ZWRzcQB+AAvxO5ZtdAANJGlzSW5zdGFuY2VPZnNxAH4AC6nK8id0AAdyZWNlaXZlc3EAfgALIygTKHQACnByZVJlc3RhcnRzcQB+AAthYe+ddAANYXJvdW5kUmVjZWl2ZXNxAH4AC21bHHl0AAtwb3N0UmVzdGFydHNxAH4AC8pUZlh0AARtYWluc3EAfgALD0IQEHQACHBvc3RTdG9wc3EAfgAL6E8pfnQACW5vdGlmeUFsbHNxAH4AC/J67QB0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC7Uq/d50AAxpc0luc3RhbmNlT2ZzcQB+AAtNuhJidAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC0sT8Hh0AA5hcm91bmRQb3N0U3RvcHNxAH4AC7eClGx0AAY8aW5pdD5zcQB+AAvb+gVpdAAIcHJlU3RhcnRzcQB+AAtyhKsedAAJdW5oYW5kbGVkc3EAfgALSXQBrHQACkFra2FkZW15RGJzcQB+AAvMHRaWdAACPT1zcQB+AAsxWhc6dAAFY2xvbmVzcQB+AAvql6ZPdAAGc2VuZGVyc3EAfgAL49COCnQABE1haW5zcQB+AAvMr41xdAAIdG9TdHJpbmdzcQB+AAvKqZ7edAAEYXJnc3NxAH4ACzbkVTF0AAIhPXNxAH4AC7AO8k50AAhnZXRDbGFzc3NxAH4AC6kcj2N0AAJuZXNxAH4AC2bsf+R0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsbmZEbdAACZXFzcQB+AAuOfi+KdAADbG9nc3EAfgALtm6vbnQAC2RlbGF5ZWRJbml0c3EAfgALe6D5ynQAAiMjc3EAfgALNrUMD3QACGZpbmFsaXplc3EAfgALy/dBTnQACGhhc2hDb2Rlc3EAfgALgW5XLnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AcXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF2NvbS5ha2thZGVteS5Ba2thZGVteURidXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AkHNxAH4AiQF1cQB+AGwAAAAAcHNxAH4AiQF1cQB+AGwAAAAAcHNxAH4AiQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI90AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aj3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AqHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKlzcQB+AJx0AAZPYmplY3RzcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQABGxhbmdxAH4Ar3NxAH4AnHQAA0FueXNxAH4AoHNxAH4Ao3VxAH4ApgAAAAJzcQB+AKh0AAVzY2FsYXEAfgCvcHBzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAARY29tLmFra2FkZW15Lk1haW51cQB+AIEAAAAAfnEAfgCDdAAGTW9kdWxldXEAfgCHAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AiQFxAH4AkXBzcQB+AIkBc3EAfgCTc3EAfgCJAXVxAH4AbAAAAABwc3EAfgCJAXVxAH4AbAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcnEAfgB7dXEAfgB8AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A0nhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJx0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AoHNxAH4Ao3VxAH4ApgAAAAJzcQB+AKhxAH4Av3EAfgCvc3EAfgB+AHEAfgAxdXEAfgCBAAAAAHNxAH4AnHQABFVuaXRxAH4A4XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+ANJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIR0AAVQbGFpbnEAfgBRc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCdWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCPc3EAfgCcdAAFQXJyYXlxAH4A4XVxAH4AmgAAAAFzcQB+AJx0AAZTdHJpbmdzcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCocQB+ALZzcQB+AKhxAH4AuHEAfgCvcHNxAH4AiQF1cQB+AJoAAAAEc3EAfgCcdAADQXBwcQB+AOFzcQB+AJx0AAtEZWxheWVkSW5pdHEAfgDhc3EAfgCccQB+ALFxAH4A/nNxAH4AnHEAfgC6cQB+AOFwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNvbS5ha2thZGVteXNxAH4BDXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPszfjZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL1VzZXJzL2plZmZ6aGFvL1dvcmsvbGVhcm4vYWtrYWRlbXktZGIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFl6P3msdwFajTAPoaZ7XmY2aliW
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBhN7+iAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ7EbR10AApHZXRSZXF1ZXN0c3EAfgAMcnKqZHQABm5vdGlmeXNxAH4ADEzkMyR0ABRLZXlOb3RGb3VuZEV4Y2VwdGlvbnNxAH4ADKSuzQR0AA9wcmludFN0YWNrVHJhY2VzcQB+AAxayx/UdAATZ2V0TG9jYWxpemVkTWVzc2FnZXNxAH4ADI2eF2d0AAR3YWl0c3EAfgAMely/SnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMN76rLHQADSRhc0luc3RhbmNlT2ZzcQB+AAyr1iY4dAAMcHJvZHVjdEFyaXR5c3EAfgAM6XAkR3QABmVxdWFsc3NxAH4ADEnq7CR0ABBmaWxsSW5TdGFja1RyYWNlc3EAfgAMmXVATHQACWluaXRDYXVzZXNxAH4ADFkX80R0AAxhc0luc3RhbmNlT2ZzcQB+AAzBgohDdAANUmV2ZXJzZVN0cmluZ3NxAH4ADP0eNm10AAxzeW5jaHJvbml6ZWRzcQB+AAwHaL0JdAANJGlzSW5zdGFuY2VPZnNxAH4ADIm4/Ad0AAhnZXRDYXVzZXNxAH4ADC1gWwR0AAhjYW5FcXVhbHNxAH4ADNw+IPd0AA1wcm9kdWN0UHJlZml4c3EAfgAMUb07SHQACW5vdGlmeUFsbHNxAH4ADFC8jXF0AANrZXlzcQB+AAx6NUWmdAAMaXNJbnN0YW5jZU9mc3EAfgAMpuPrAHQADWdldFN0YWNrVHJhY2VzcQB+AAyuC4DfdAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAyslfRSdAAGPGluaXQ+c3EAfgAMD/xVBnQACmdldE1lc3NhZ2VzcQB+AAxFmknCdAANc2V0U3RhY2tUcmFjZXNxAH4ADP5bxxB0AApTZXRSZXF1ZXN0c3EAfgAMIyLexXQADWdldFN1cHByZXNzZWRzcQB+AAwwEJRLdAACPT1zcQB+AAzgIlLbdAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAMYs0+aXQABWNsb25lc3EAfgAM7A4PlnQADWFkZFN1cHByZXNzZWRzcQB+AAzQ/C3odAAEY29weXNxAH4ADF47z950AAh0b1N0cmluZ3NxAH4ADLn0mo10AAIhPXNxAH4ADFpXzNh0AAhnZXRDbGFzc3NxAH4ADPcCo0N0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJDhmDV0AAJuZXNxAH4ADNJ7Ezl0AAV2YWx1ZXNxAH4ADLMR1qB0AAJlcXNxAH4ADKZQRdd0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzYOsJ7dAACIyNzcQB+AAytS5HpdAAIZmluYWxpemVzcQB+AAx3JH8PdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzGThNEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY29tLmFra2FkZW15LlNldFJlcXVlc3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHh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
+external apis:
+0 items
+source infos:
+3 items
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala -> 
+AAAAAAAAAAA=
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala -> 
+AAAAAAAAAAA=
+/Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYOxIz9F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qZWZmemhhby9Xb3JrL2xlYXJuL2Fra2FkZW15LWRiL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPqwoJh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qZWZmemhhby9Xb3JrL2xlYXJuL2Fra2FkZW15LWRiL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPrGpoF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qZWZmemhhby9Xb3JrL2xlYXJuL2Fra2FkZW15LWRiL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPszfjZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qZWZmemhhby9Xb3JrL2xlYXJuL2Fra2FkZW15LWRiL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

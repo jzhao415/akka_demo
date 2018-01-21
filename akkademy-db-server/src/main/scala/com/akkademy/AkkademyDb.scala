@@ -10,6 +10,10 @@ class AkkademyDb extends Actor {
   val log = Logging(context.system, this)
 
   override def receive = {
+    case Ping() => {
+      log.info("received Ping")
+      sender() ! Connected
+    }
     case SetRequest(key, value) => {
       log.info("received SetRequest - key : {} value: {}", key, value)
       map.put(key, value)
@@ -33,7 +37,7 @@ class AkkademyDb extends Actor {
       val response: String = key.reverse.toString
       sender()! response
     }
-    case _ => Status.Failure(new ClassNotFoundException)
+    case _ => sender() ! Status.Failure(new ClassNotFoundException)
   }
 
   def setIfNotExist(key: String): Option[Object] ={

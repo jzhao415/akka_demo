@@ -48,6 +48,11 @@ class AkkademyDbSpec extends FunSpecLike with Matchers with BeforeAndAfterEach{
           Await.result(future.mapTo[String], 2 second)
         }
       }
+      it("should return Connected msg when ping") {
+        val f = actorRef ? Ping()
+        val result = Await.result(f, 2 second)
+        assert(result == Connected)
+      }
     }
   }
 }

@@ -1,11 +1,11 @@
-[0m[[0minfo[0m] [0mPackaging /Users/jeffzhao/Work/learn/akkademy-db/target/scala-2.11/akkademy-db_2.11-0.0.1-SNAPSHOT-sources.jar ...[0m
+[0m[[0minfo[0m] [0mPackaging /Users/jeffzhao/Work/learn/akkademy-db-server/target/scala-2.11/akkademy-db_2.11-0.0.1-SNAPSHOT-sources.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	application.conf[0m
-[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db/src/main/resources/application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db-server/src/main/resources/application.conf[0m
 [0m[[0mdebug[0m] [0m	com/akkademy/AkkademyDb.scala[0m
-[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/AkkademyDb.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db-server/src/main/scala/com/akkademy/AkkademyDb.scala[0m
 [0m[[0mdebug[0m] [0m	com/akkademy/messages/messageApi.scala[0m
-[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/akkademy/messages/messageApi.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db-server/src/main/scala/com/akkademy/messages/messageApi.scala[0m
 [0m[[0mdebug[0m] [0m	com/Pingpong/ScalaPongActor.scala[0m
-[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db/src/main/scala/com/Pingpong/ScalaPongActor.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/jeffzhao/Work/learn/akkademy-db-server/src/main/scala/com/Pingpong/ScalaPongActor.scala[0m
 [0m[[0minfo[0m] [0mDone packaging.[0m

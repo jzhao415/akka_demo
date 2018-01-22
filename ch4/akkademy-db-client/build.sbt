@@ -9,4 +9,5 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 libraryDependencies += "com.akkademy-db"   %% "akkademy-db"  % "0.0.1-SNAPSHOT"
 // Uncomment to use Akka
 libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.3.11"
+libraryDependencies += "com.typesafe.akka" %% "akka-testkit" % "2.3.11" % "test"
 

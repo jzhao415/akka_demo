@@ -1,7 +1,10 @@
-package com.akkademy
+package com.akkademy.messages
 
-case class SetRequest (key: String, value: Object)
-case class GetRequest (key: String)
+import akka.actor.ActorRef
+
+trait Request
+case class SetRequest (key: String, value: Object, sender: ActorRef = ActorRef.noSender) extends Request
+case class GetRequest (key: String, sender: ActorRef = ActorRef.noSender) extends Request
 case class ReverseString (key: String)
 case class RemoveRequest (key: String)
 case class Ping()

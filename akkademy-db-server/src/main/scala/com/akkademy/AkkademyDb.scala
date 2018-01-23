@@ -2,6 +2,7 @@ package com.akkademy
 
 import akka.actor.{Actor, ActorSystem, Props, Status}
 import akka.event.Logging
+import com.akkademy.messages._
 
 import scala.collection.mutable.HashMap
 
@@ -10,20 +11,21 @@ class AkkademyDb extends Actor {
   val log = Logging(context.system, this)
 
   override def receive = {
-    case Ping() => {
+    case x: messages.Connected => {
       log.info("received Ping")
-      sender() ! Connected
+      sender() ! x
     }
-    case SetRequest(key, value) => {
+    case SetRequest(key, value, senderRef) => {
       log.info("received SetRequest - key : {} value: {}", key, value)
       map.put(key, value)
+      senderRef ! Status.Success
     }
-    case GetRequest(key)=>{
+    case GetRequest(key, senderRef)=>{
       log.info("received GetRequest - key : {} ", key)
       val response: Option[Object] = map.get(key)//.orElse(setIfNotExist(key))
       response match{
-        case Some(x) => sender() ! x
-        case None => sender() ! Status.Failure(new KeyNotFoundException(key))
+        case Some(x) => senderRef ! x
+        case None => senderRef ! Status.Failure(new KeyNotFoundException(key))
       }
     }
     case RemoveRequest(key) => {
